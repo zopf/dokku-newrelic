@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku New Relic deployment reporting plugin"
+version = "1.0.0"
+[plugin.config]
